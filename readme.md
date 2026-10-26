@@ -29,8 +29,6 @@ Formes disponibles : **carré**, **rectangle**, **cercle**, **ellipse** et **lig
 ╰──────────────────────────────╯
 ```
 
-Les menus « Créer », « Lister », « Modifier » et « Supprimer » proposent ensuite le choix de la forme (carré, rectangle, cercle, ellipse, ligne) ou un retour au menu principal.
-
 ## Prérequis
 
 - `gcc` et `make`
