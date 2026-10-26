@@ -12,7 +12,6 @@ Formes disponibles : **carré**, **rectangle**, **cercle**, **ellipse** et **lig
 - Supprimer une forme
 - Générer et ouvrir automatiquement un fichier `formes.svg` (800 × 600 px, fond blanc)
 - Choisir parmi 12 couleurs, affichées en couleur dans le terminal
-- Saisies sécurisées : une valeur invalide est simplement redemandée
 
 ## Aperçu
 
