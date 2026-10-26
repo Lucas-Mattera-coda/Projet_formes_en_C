@@ -16,8 +16,6 @@ Formes disponibles : **carré**, **rectangle**, **cercle**, **ellipse** et **lig
 
 ## Aperçu
 
-Chaque action possède son propre menu :
-
 ```
 ╭──────────────────────────────╮
 │             MENU             │
